@@ -1,0 +1,9 @@
+name: HexScribe
+main: org.hexcraft.HexScribe
+version: 0.1.3
+depend: [HexCore]
+softdepend: []
+permissions:
+  hexscribe.use:
+    description: Allows usage of Scribe
+    default: op
